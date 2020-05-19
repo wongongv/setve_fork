@@ -1,0 +1,1 @@
+{"inherits": ["config/algos/steve.json", "config/envs/pybulletAnt.json", "config/experimental_setups/speedrun.json"]}
